@@ -1,0 +1,6 @@
+{
+  "name": "NaijaReads",
+  "description": "A premium, dynamic full-stack Algerian/Nigerian book review, rating, and community discovery platform featuring reading progress trackers, streaks, rankings, and gamified badges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
